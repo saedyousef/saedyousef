@@ -1,6 +1,6 @@
 ### Hi there, I'm Saed Yousef 👋
 
-## I'm a Palestinian Software engineer lives in Jorda!
+## I'm Palestinian Software engineer lives in Jorda!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I'm looking to cintrubute to open sources projects!
