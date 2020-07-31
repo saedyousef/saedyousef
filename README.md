@@ -1,9 +1,9 @@
 ### Hi there, I'm Saed Yousef 👋
 
-## I'm Palestinian Software engineer lives in Jorda!
+## I'm Palestinian Software Engineer, intersted in AI, ML & Data Science ⚡
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I'm looking to cintrubute to open sources projects!
+- 🔭 I'm looking to cintrubute to open sources projects! 👯
 
 ### Contact with me:
 [<img align="left" alt="saed_q | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
