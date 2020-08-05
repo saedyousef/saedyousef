@@ -1,6 +1,6 @@
 ### Hi there, I'm Saed Yousef 👋
 
-## I'm a Palestinian Software Engineer, intersted in AI, ML & Data Science ⚡
+## A Palestinian Software Engineer, intersted in AI, ML & Data Science ⚡
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
