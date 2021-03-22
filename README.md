@@ -1,6 +1,6 @@
 ### Hi there, I'm Saed Yousef 👋
 
-## IDK
+## idk
 
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
 
