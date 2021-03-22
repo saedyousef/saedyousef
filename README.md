@@ -6,7 +6,7 @@
 
 ### Contact with me:
 [<img align="left" alt="saed_q | Twitter" width="22px" src="https://img.icons8.com/color/452/twitter--v1.png" />][twitter]
-[<img align="left" alt="saedyousef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saedyousef | LinkedIn" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="saedqyousef | Instagram" width="22px" src="https://img.icons8.com/color/452/instagram-new--v1.png" />][instagram]
 [<img align="left" alt="saedqyousef | Facebook" width="22px" src="https://img.icons8.com/color/452/facebook-new.png" />][facebook]
 
