@@ -39,7 +39,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&count_private=true)
 
 
-[twitter]: https://twitter.com/saed_q
+[twitter]: https://twitter.com/saedqyousef
 [linkedin]: https://www.linkedin.com/in/saedyousef/
 [instagram]: https://www.instagram.com/saedqyousef/
 [facebook]: https://www.facebook.com/saedqyousef
