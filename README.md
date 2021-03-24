@@ -4,7 +4,7 @@
 
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
 
-### Contact with me:
+### Connect with me:
 [<img align="left" alt="saed_q | Twitter" width="22px" src="https://img.icons8.com/color/452/twitter--v1.png" />][twitter]
 [<img align="left" alt="saedyousef | LinkedIn" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="saedqyousef | Instagram" width="22px" src="https://img.icons8.com/color/452/instagram-new--v1.png" />][instagram]
