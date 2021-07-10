@@ -37,6 +37,7 @@
 <br />
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&theme=dark&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&exclude_repo=github-readme-stats,anuraghazra.github.io&count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/saedqyousef
