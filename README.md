@@ -36,7 +36,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&bg_color=#993366,#006699&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&bg_color=#2a4858,#335360,#3e5e67,#49696f,#567476,#637f7e,#718a87,#7f958f,#8ea098,#9caba2,#abb6ad,#bac2b8,#c9cdc4,#d7d9d1,#e5e5de&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&bg_color=DEG&langs_count=6)]
 
 
