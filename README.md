@@ -36,7 +36,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&theme=dark&count_private=true)
 
 
 [twitter]: https://twitter.com/saedqyousef
