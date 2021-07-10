@@ -36,7 +36,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&theme=dark&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&theme=gradient&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&theme=gradient,anuraghazra.github.io&langs_count=6)]
 
 
