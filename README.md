@@ -18,6 +18,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact&hide=css,html)
 
+<br/>
+<br/>
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saedyousef&layout=compac)
+
+
 
 [twitter]: https://twitter.com/saedqyousef
 [linkedin]: https://www.linkedin.com/in/saedyousef/
