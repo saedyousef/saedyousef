@@ -29,3 +29,10 @@
 [linkedin]: https://www.linkedin.com/in/saedyousef/
 [instagram]: https://www.instagram.com/saedqyousef/
 [facebook]: https://www.facebook.com/saedqyousef
+
+---
+  <!-- GitHub stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide=none&theme=tokyonight" alt="GitHub Stats" width="420"/>
+</p>
+
