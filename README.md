@@ -31,8 +31,8 @@
 [facebook]: https://www.facebook.com/saedqyousef
 
 ---
-  <!-- GitHub stats -->
+  <!-- vercel github profile trophy -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide=none&theme=tokyonight" alt="GitHub Stats" width="420"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darwinz&column=6&theme=onedark&title=Commit,PullRequest,Repositories,Followers,Stars,Issues"/>
 </p>
 
