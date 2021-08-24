@@ -14,9 +14,22 @@
 [<img align="left" alt="saedqyousef | Facebook" width="22px" src="https://img.icons8.com/color/452/facebook-new.png" />][facebook]
 
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">Quick Info</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope='row'>Name</th><td>Saed Yousef</td></tr>
+    <tr><th scope='row'>Role</th><td>Software Engineer</td></tr>
+    <tr><th scope='row'>Current Stack</th><td>PHP, MySQL, Laravel, Lumen, REST, Microservices, AWS, JavaScript, jQuery, Ruby, Google Cloud Platform, Docker, Kubernetes, GitHub </td></tr>
+    <tr><th scope='row'>Other Experience</th><td>Python, Go, Elixir, JavaScript, PHP, MySQL, PostgreSQL, Mongo, Elasticsearch, Redis, Memcached, Pulsar, AWS, Google Cloud, Kubernetes, Shell</td></tr>
+  </tbody>
+</table>
 
-<br />
-<br />
+---
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact&hide=css,html,blade)
