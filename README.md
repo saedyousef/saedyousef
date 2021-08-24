@@ -5,7 +5,11 @@
 
 ### Hi there, I'm Saed Yousef 👋
 
-
+<p>
+  <a href="https://twitter.com/saedqyousef">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saedqyousef?style=for-the-badge">
+  </a>
+</p>
 
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
 ---
