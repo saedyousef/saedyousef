@@ -30,11 +30,17 @@
 
 ---
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true)
+ <!-- GitHub stats -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide=none&theme=tokyonight" alt="GitHub Stats" width="420"/>
+</p>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact&hide=css,html,blade)
+
+ <!-- Most Used Languages -->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact&hide=css,html,blade" alt="Most used languages" width="420"/>
+</p>
 
 
 [twitter]: https://twitter.com/saedqyousef
