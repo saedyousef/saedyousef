@@ -30,7 +30,7 @@
   <tbody>
     <tr><th scope='row'>Name</th><td>Saed Yousef</td></tr>
     <tr><th scope='row'>Role</th><td>Software Engineer</td></tr>
-    <tr><th scope='row'>Organization</th><td>IPO PrämenServices</td></tr>
+    <tr><th scope='row'>Organization</th><td>IPO PrämienServices</td></tr>
     <tr><th scope='row'>Current Stack</th><td>PHP, MySQL, Laravel, Lumen, REST, Microservices, AWS, JavaScript, jQuery, Google Cloud Platform, Docker, Kubernetes, GitHub </td></tr>
     <tr><th scope='row'>Other Experience</th><td>Python, Go, Elixir, JavaScript, PHP, MySQL, PostgreSQL, Mongo, Elasticsearch, Redis, Memcached, AWS, Google Cloud, Kubernetes, Shell</td></tr>
   </tbody>
