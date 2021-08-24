@@ -1,6 +1,9 @@
 ### Hi there, I'm Saed Yousef 👋
 
-## idk
+<!-- top left -->
+<a href="#">
+    <img src="https://media1.giphy.com/media/L0C3eo0XgklO7iqXRC/source.gif" width="100" height="60"/> 
+</a>
 
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
 
