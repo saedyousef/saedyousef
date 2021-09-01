@@ -1,4 +1,3 @@
-
 <!-- top left -->
 <a href="#">
     <img src="https://media1.giphy.com/media/L0C3eo0XgklO7iqXRC/source.gif" width="100" height="60"/> 
