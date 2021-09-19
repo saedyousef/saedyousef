@@ -15,8 +15,8 @@
 ---
 
 ### Connect with me:
-[![dev.to badge](https://img.shields.io/badge/linkedin-abdelrahmanhsn-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saedyousef)
-[![glitch badge](https://img.shields.io/badge/facebook-abdelrahmanhsn-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/saedqyousef)
+[![dev.to badge](https://img.shields.io/badge/linkedin-Saed Yousef-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saedyousef)
+[![glitch badge](https://img.shields.io/badge/facebook-Saed Yousef-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/saedqyousef)
 [![twitter badge](https://img.shields.io/badge/instagram-@saedqyousef-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abdelrahman.hsn)
 
 
