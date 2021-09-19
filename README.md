@@ -15,10 +15,9 @@
 ---
 
 ### Connect with me:
-[<img align="left" alt="saed_q | Twitter" width="22px" src="https://img.icons8.com/color/452/twitter--v1.png" />][twitter]
-[<img align="left" alt="saedyousef | LinkedIn" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
-[<img align="left" alt="saedqyousef | Instagram" width="22px" src="https://img.icons8.com/color/452/instagram-new--v1.png" />][instagram]
-[<img align="left" alt="saedqyousef | Facebook" width="22px" src="https://img.icons8.com/color/452/facebook-new.png" />][facebook]
+[![dev.to badge](https://img.shields.io/badge/linkedin-abdelrahmanhsn-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saedyousef)
+[![glitch badge](https://img.shields.io/badge/facebook-abdelrahmanhsn-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/saedqyousef)
+[![twitter badge](https://img.shields.io/badge/instagram-@saedqyousef-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abdelrahman.hsn)
 
 
 <table>
