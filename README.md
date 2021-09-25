@@ -5,6 +5,7 @@
 
 ### Hi there, I'm Saed Yousef 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=saedyousef.saedyousef&left_color=green&right_color=red)
 <p>
   <a href="https://twitter.com/saedqyousef">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saedqyousef?style=for-the-badge">
