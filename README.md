@@ -6,11 +6,13 @@
 ### Hi there, I'm Saed Yousef 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saedyousef.saedyousef&left_color=green&right_color=red)
+[![wakatime](https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061.svg)](https://wakatime.com/@03bf07e2-4c78-4826-8603-8922f0241061)
 <p>
   <a href="https://twitter.com/saedqyousef">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/saedqyousef?style=for-the-badge">
   </a>
 </p>
+
 
 - 🔭 I'm looking to cintrubute to open sources projects! 👯
 ---
