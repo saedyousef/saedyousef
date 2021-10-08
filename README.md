@@ -45,6 +45,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide=none&theme=tokyonight" alt="GitHub Stats" width="420"/>
 </p>
 
+<p>
+    ![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide_title=true)
+</p>
+
 ---
 
  <!-- Most Used Languages -->
