@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="420"/>
 </p>
  <!-- Most Used Languages -->
-<p align="right">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&hide_title=true&layout=compact&hide=css,html,blade" alt="Most used languages" width="420"/>
 </p>
 ---
