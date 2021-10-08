@@ -49,7 +49,7 @@
 
  <!-- Most Used Languages -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact&hide=css,html,blade" alt="Most used languages" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&hide_title=true&layout=compact&hide=css,html,blade" alt="Most used languages" width="420"/>
 </p>
 
 
