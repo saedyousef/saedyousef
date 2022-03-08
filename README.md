@@ -14,13 +14,7 @@
 </p>
 
 
-- 🔭 I'm looking to cintrubute to open sources projects! 👯
----
 
-### Connect with me:
-[![dev.to badge](https://img.shields.io/badge/linkedin-Saed%20Yousef-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saedyousef)
-[![glitch badge](https://img.shields.io/badge/facebook-Saed%20Yousef-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/saedqyousef)
-[![twitter badge](https://img.shields.io/badge/instagram-@saedqyousef-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saedqyousef)
 
 ---
 
@@ -34,10 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef&show_icons=true&include_all_commits=true&hide_title=true&layout=compact&hide=css,html,blade" alt="Most used languages" width="420"/>
 </p>
 
-
-[twitter]: https://twitter.com/saedqyousef
-[linkedin]: https://www.linkedin.com/in/saedyousef/
-[instagram]: https://www.instagram.com/saedqyousef/
-[facebook]: https://www.facebook.com/saedqyousef
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg)
