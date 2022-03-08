@@ -22,22 +22,6 @@
 [![glitch badge](https://img.shields.io/badge/facebook-Saed%20Yousef-%230177B5?style=flat&logo=facebook)](https://www.facebook.com/saedqyousef)
 [![twitter badge](https://img.shields.io/badge/instagram-@saedqyousef-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/saedqyousef)
 
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2">Quick Info</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><th scope='row'>Name</th><td>Saed Yousef</td></tr>
-    <tr><th scope='row'>Role</th><td>Software Engineer</td></tr>
-    <tr><th scope='row'>Organization</th><td>IPO PrämienServices</td></tr>
-    <tr><th scope='row'>Current Stack</th><td>PHP, MySQL, Laravel, Lumen, REST, Microservices, AWS, JavaScript, jQuery, Google Cloud Platform, Docker, Kubernetes, GitHub </td></tr>
-    <tr><th scope='row'>Other Experience</th><td>Python, JavaScript, PHP, MySQL, PostgreSQL, Mongo, Elasticsearch, Redis, Memcached, AWS, Shell</td></tr>
-  </tbody>
-</table>
-
 ---
 
  <!-- GitHub stats -->
@@ -55,10 +39,4 @@
 [linkedin]: https://www.linkedin.com/in/saedyousef/
 [instagram]: https://www.instagram.com/saedqyousef/
 [facebook]: https://www.facebook.com/saedqyousef
-
-
-  <!-- vercel github profile trophy -->
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saedyousef&column=6&theme=onedark&title=Commit,PullRequest,Repositories,Followers,Stars,Issues"/>
-</p> -->
 
