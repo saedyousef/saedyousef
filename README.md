@@ -40,3 +40,4 @@
 [instagram]: https://www.instagram.com/saedqyousef/
 [facebook]: https://www.facebook.com/saedqyousef
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/xinthose/xinthose/output/github-contribution-grid-snake.svg)
