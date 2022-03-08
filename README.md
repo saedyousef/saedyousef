@@ -13,6 +13,16 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&theme=radical&count_private=true)
 
 <!--START_SECTION:waka-->
+
+```text
+PHP              19 hrs 38 mins  ██████████████████▓░░░░░░   75.25 %
+Blade Template   4 hrs 37 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+TypeScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Bash             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+SQL              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JavaScript       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+```
+
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef)
