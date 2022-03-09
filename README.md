@@ -26,7 +26,7 @@ Bash             0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef) <img src="https://media.giphy.com/media/9WC8WTZsFxkRi/source.gif" width="40%" height="285"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef) <img src="https://media.giphy.com/media/9WC8WTZsFxkRi/source.gif" width="60%" height="285"/>
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
