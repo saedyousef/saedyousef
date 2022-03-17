@@ -14,12 +14,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Docker           7 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.64 %
-Dockerfile       3 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-PHP              3 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
-YAML             3 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Blade Template   1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-SmartyConfig     1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Docker           7 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   31.62 %
+PHP              3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Dockerfile       3 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+YAML             2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+SmartyConfig     54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Blade Template   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
