@@ -12,6 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef)
 
+7 Days stats (Last Week)
 <!--START_SECTION:waka-->
 
 ```text
