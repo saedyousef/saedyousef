@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061.svg)](https://wakatime.com/@03bf07e2-4c78-4826-8603-8922f0241061)
 [![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/saedyousef?tab=followers)
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true" width="100%" />
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef) -->
 
 7 Days stats (Last Week)
@@ -29,4 +29,4 @@ Text             3 mins          ░░░░░░░░░░░░░░░�
 ![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&theme=radical&count_private=true)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true) -->
