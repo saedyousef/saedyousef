@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saedyousef.saedyousef&left_color=grey&right_color=blue&left_text=👀+Profile+Views)
 [![wakatime](https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061.svg)](https://wakatime.com/@03bf07e2-4c78-4826-8603-8922f0241061)
-[![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+[![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/saedyousef?tab=followers)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef) -->
