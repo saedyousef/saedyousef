@@ -9,7 +9,6 @@
 [![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/saedyousef?tab=followers)
 
 <img src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true" width="100%" />
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saedyousef) -->
 
 7 Days stats (Last Week)
 <!--START_SECTION:waka-->
