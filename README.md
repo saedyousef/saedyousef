@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP              20 hrs 56 mins  ███████████████████░░░░░░   75.92 %
-.env file        1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Blade Template   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Dockerfile       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-JSON             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-GitIgnore file   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+PHP              19 hrs 34 mins  ██████████████████░░░░░░░   71.49 %
+.env file        1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Blade Template   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Dockerfile       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+SmartyConfig     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
