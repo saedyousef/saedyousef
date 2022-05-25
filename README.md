@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP              26 hrs 28 mins  ███████████████████████▒░   93.26 %
-Blade Template   1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-SmartyConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+PHP              21 hrs 35 mins  ███████████████████░░░░░░   76.02 %
+Blade Template   6 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+JavaScript       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 .env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Dockerfile       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+SmartyConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
