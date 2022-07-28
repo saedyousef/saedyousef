@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   12 hrs 7 mins   ████████████▓░░░░░░░░░░░░   50.64 %
-PHP              5 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-CSS              4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-JavaScript       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-AUTO_DETECTED    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-GitIgnore file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Blade Template   12 hrs 3 mins   █████████████░░░░░░░░░░░░   51.37 %
+PHP              6 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
+CSS              4 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+JavaScript       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+GitIgnore file   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
