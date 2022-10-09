@@ -8,8 +8,6 @@
 [![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/saedyousef?tab=followers)
 [![github](https://github.com/saedyousef/saedyousef/actions/workflows/snake.yml/badge.svg)](https://github.com/saedyousef/saedyousef)
 [![github](https://github.com/saedyousef/saedyousef/actions/workflows/waka.yml/badge.svg)](https://github.com/saedyousef/saedyousef)
-[![github](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8%20%23StandWithPalestine-blue.svg)](https://github.com/saedyousef/saedyousef)
-[![github](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8%20%23FreePalestine-blue.svg)](https://github.com/saedyousef/saedyousef)
 [![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/saedyousef)
 [![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/saedyousef/saedyousef)
 
