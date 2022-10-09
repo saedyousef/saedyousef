@@ -10,7 +10,8 @@
 [![github](https://github.com/saedyousef/saedyousef/actions/workflows/waka.yml/badge.svg)](https://github.com/saedyousef/saedyousef)
 [![github](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8%20%23StandWithPalestine-blue.svg)](https://github.com/saedyousef/saedyousef)
 [![github](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8%20%23FreePalestine-blue.svg)](https://github.com/saedyousef/saedyousef)
-[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/StandWithPalestineFlat.svg)](https://github.com/saedyousef/saedyousef)
+[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/Flat/StandWithPalestine.svg)](https://github.com/saedyousef/saedyousef)
+[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/Flat/IStandWithPalestine.svg)](https://github.com/saedyousef/saedyousef)
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true" width="100%" /> --> 
