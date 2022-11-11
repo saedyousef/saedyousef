@@ -6,8 +6,7 @@
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=saedyousef.saedyousef&left_color=grey&right_color=blue&left_text=👀+Profile+Views)
 [![wakatime](https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061.svg)](https://wakatime.com/@03bf07e2-4c78-4826-8603-8922f0241061)
 [![github](https://img.shields.io/github/followers/saedyousef?logo=github&style=plastic)](https://github.com/saedyousef?tab=followers)
-[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/FreePalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
-[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
+[![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 
 
 
