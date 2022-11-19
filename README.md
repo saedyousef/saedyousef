@@ -9,7 +9,6 @@
 [![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 
 
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=saedyousef&show_icons=true&count_private=true" width="100%" /> --> 
 
 <!--START_SECTION:waka-->
