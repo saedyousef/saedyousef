@@ -13,12 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   1 hr 16 mins    ███████████░░░░░░░░░░░░░░   43.96 %
-CSS              1 hr 13 mins    ██████████▓░░░░░░░░░░░░░░   42.59 %
-PHP              18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-.env file        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-SVG              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
