@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              1 hr 34 mins    ██████████████░░░░░░░░░░░   56.10 %
-Bash             48 mins         ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-PHP              19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-CSV/TSV          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
