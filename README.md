@@ -16,7 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP         35 mins         ██████████████░░░░░░░░░░░   56.26 %
+Docker      19 mins         ███████▓░░░░░░░░░░░░░░░░░   31.08 %
+.env file   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+SQL         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+YAML        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
