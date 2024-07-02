@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              8 hrs 26 mins   ██████████████████████▓░░   90.93 %
-YAML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-SmartyConfig     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Blade Template   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+PHP              8 hrs 41 mins   █████████████████░░░░░░░░   67.45 %
+JavaScript       2 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
+Blade Template   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+YAML             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+SmartyConfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
