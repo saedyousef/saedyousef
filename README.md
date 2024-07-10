@@ -1,6 +1,4 @@
-<a href="#">
-<!--     <img src="https://media1.giphy.com/media/L0C3eo0XgklO7iqXRC/source.gif" width="100" height="60"/> -->
-</a>
+# #FreePalestine 🇵🇸 ✊
 
 [![github](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
