@@ -14,7 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              1 hr 48 mins    ██████████████████████▒░░   89.73 %
+XML              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+SQL              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+YAML             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
