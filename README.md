@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                        2 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.49 %
-YAML                       1 hr 45 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
-Docker                     48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-SmartyConfig               25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Nginx configuration file   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+YAML                       1 hr 42 mins    ███████████░░░░░░░░░░░░░░   44.16 %
+Docker                     48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+PHP                        27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+SmartyConfig               25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Nginx configuration file   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
 ```
 
 <!--END_SECTION:waka-->
