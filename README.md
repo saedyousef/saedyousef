@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       9 hrs 8 mins    ████████████████████▓░░░░   82.10 %
-JavaScript                 1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Docker                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Nginx configuration file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Text                       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+YAML                       11 hrs 13 mins  ██████████████████░░░░░░░   72.40 %
+JavaScript                 1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Docker                     1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown                   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+SmartyConfig               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
