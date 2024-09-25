@@ -17,13 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     # Set necessary permissions for the job
     permissions:
-      contents: write            # Required for writing to repository
-      packages: read             # Read package-related data
-      issues: read               # Access issues data
-      discussions: read          # Access discussions data
-      pull-requests: read        # Access pull requests data
-      user: read                 # Read user profile data
-      repository: read           # Read repository data, including private repositories
+      contents: write          # Required for writing to repository
+      packages: read           # Read package-related data
+      issues: read             # Access issues data
+      discussions: read        # Access discussions data
+      pull-requests: read      # Access pull requests data
+      actions: read            # Read access to GitHub Actions workflows
+      pages: read              # Read access to repository metadata
+
       
     steps:
       # Use the lowlighter/metrics action to generate the metrics
