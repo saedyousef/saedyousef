@@ -61,7 +61,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5  # Timeout for repository language analysis
           plugin_languages_categories: markup, programming     # Categories to include
           plugin_languages_colors: github                      # Use GitHub color scheme
-          plugin_languages_limit: 8                            # Limit the number of languages to show
+          plugin_languages_limit: 20                            # Limit the number of languages to show
           plugin_languages_recent_categories: markup, programming # Categories to include in recent languages
           plugin_languages_recent_days: 14                     # Consider activity from the past 14 days
           plugin_languages_recent_load: 300                    # Set recent load threshold
