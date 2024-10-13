@@ -44,7 +44,7 @@ jobs:
 
           # Additional options
           base_hireable: yes                      # Show whether the user is hireable
-          config_timezone: Europe/Berling            # Set timezone for metrics
+          config_timezone: Europe/Berlin          # Set timezone for metrics
 
           # Enable follow-up plugin for repository follow-up stats
           plugin_followup: yes
