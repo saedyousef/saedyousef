@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              5 hrs           ███████░░░░░░░░░░░░░░░░░░   27.45 %
-CloudFormation   3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-GitHub Actions   2 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Docker           1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Text             1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+PHP              4 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.64 %
+GitHub Actions   1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+CloudFormation   1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Docker           59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+XML              46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
