@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              7 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.28 %
-Markdown         3 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-GitHub Actions   3 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.80 %
-Docker           1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Blade Template   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+PHP              7 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.71 %
+Markdown         3 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+GitHub Actions   2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Docker           1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Blade Template   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
