@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CloudFormation   6 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
-Markdown         3 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-GitHub Actions   2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Bash             1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-NodeJS           52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+CloudFormation   4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Markdown         3 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+GitHub Actions   2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+Bash             1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+PHP              1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 ```
 
 <!--END_SECTION:waka-->
