@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              3 hrs 19 mins   █████████████░░░░░░░░░░░░   52.01 %
-CloudFormation   1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Bash             40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-Blade Template   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Docker           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+PHP              3 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
+Bash             2 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
+CloudFormation   1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+GitHub Actions   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Makefile         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
