@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 hr 13 mins    ████████████████░░░░░░░░░   63.75 %
-NodeJS           19 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-GitHub Actions   18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-Bash             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
