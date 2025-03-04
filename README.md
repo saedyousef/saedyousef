@@ -14,11 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              55 mins         ██████████████████████░░░   87.54 %
-Blade Template   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-.env file        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-NodeJS           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
