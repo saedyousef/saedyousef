@@ -14,10 +14,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              15 hrs 59 mins  ███████████████████░░░░░░   75.73 %
-TypeScript       3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Blade Template   1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-NodeJS           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+PHP              15 hrs 22 mins  ██████████████████▒░░░░░░   73.47 %
+TypeScript       3 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Blade Template   1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+NodeJS           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 CloudFormation   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
