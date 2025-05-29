@@ -14,11 +14,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              10 hrs 36 mins  ██████████████▓░░░░░░░░░░   58.71 %
-TypeScript       3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-GitHub Actions   1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Blade Template   1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Markdown         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+PHP              8 hrs 21 mins   █████████████░░░░░░░░░░░░   52.03 %
+TypeScript       3 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+GitHub Actions   1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Blade Template   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+SQL              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
