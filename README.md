@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              11 hrs 50 mins  ████████████████▒░░░░░░░░   65.43 %
-CloudFormation   2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-SQL              1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-TypeScript       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Blade Template   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+PHP              11 hrs 58 mins  ████████████████░░░░░░░░░   64.52 %
+CloudFormation   2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+SQL              1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Blade Template   57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
