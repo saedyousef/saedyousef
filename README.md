@@ -12,10 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CloudFormation   6 hrs 50 mins   ██████████████████████▒░░   89.74 %
-Markdown         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-PHP              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-SQL              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+CloudFormation   3 hrs 17 mins   ██████████████████████░░░   88.63 %
+PHP              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Markdown         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
