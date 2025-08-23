@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CloudFormation   3 hrs 17 mins   ██████████████████████░░░   88.63 %
-PHP              15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Markdown         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
