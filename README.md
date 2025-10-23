@@ -12,8 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-NodeJS   4 mins          ████████████████████████▒   96.81 %
-PHP      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+NodeJS   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
