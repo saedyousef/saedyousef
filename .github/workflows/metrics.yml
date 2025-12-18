@@ -1,13 +1,9 @@
 name: GitHub Metrics
 
-# Define when the workflow will run
 on:
-  # Schedule updates every hour
   schedule:
-    - cron: "0 * * * *" # Runs at the start of every hour
-  # Allow manual run
+    - cron: "0 * * * *"
   workflow_dispatch:
-  # Trigger on push to the master branch
   push:
     branches:
       - master
@@ -15,61 +11,58 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    # Set necessary permissions for the job
-    permissions:
-      contents: write          # Required for writing to repository
-      packages: read           # Read package-related data
-      issues: read             # Access issues data
-      discussions: read        # Access discussions data
-      pull-requests: read      # Access pull requests data
-      actions: read            # Read access to GitHub Actions workflows
-      pages: read              # Read access to repository metadata
 
-      
+    permissions:
+      contents: write
+      packages: read
+      issues: read
+      discussions: read
+      pull-requests: read
+      actions: read
+      pages: read
+
     steps:
-      # Use the lowlighter/metrics action to generate the metrics
+      - name: Checkout with personal token
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      - name: Configure git identity
+        run: |
+          git config --global user.name "Saed Yousef"
+          git config --global user.email "${{ vars.GIT_AUTHOR_EMAIL }}"
+
       - uses: lowlighter/metrics@latest
         with:
-          # Use the GitHub token stored in repository secrets
           token: ${{ secrets.METRICS_SECRET }}
 
-          # Define the GitHub username for which to generate metrics
           user: saedyousef
-
-          # Set the template for how metrics will appear
           template: classic
-
-          # Include various sections in the metrics
           base: header, activity, community, repositories, metadata
 
-          # Additional options
-          base_hireable: yes                      # Show whether the user is hireable
-          config_timezone: Europe/Berlin          # Set timezone for metrics
+          base_hireable: yes
+          config_timezone: Europe/Berlin
 
-          # Enable follow-up plugin for repository follow-up stats
           plugin_followup: yes
-          plugin_followup_archived: yes           # Include archived repositories
-          plugin_followup_sections: repositories  # Show repository-related follow-ups
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
 
-          # Enable isocalendar plugin to show activity over a year
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year  # Set the duration to full year
+          plugin_isocalendar_duration: full-year
 
-          # Enable the languages plugin to analyze programming languages used
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15   # Set language analysis timeout to 15 seconds
-          plugin_languages_analysis_timeout_repositories: 7.5  # Timeout for repository language analysis
-          plugin_languages_categories: markup, programming     # Categories to include
-          plugin_languages_colors: github                      # Use GitHub color scheme
-          plugin_languages_limit: 20                            # Limit the number of languages to show
-          plugin_languages_recent_categories: markup, programming # Categories to include in recent languages
-          plugin_languages_recent_days: 14                     # Consider activity from the past 14 days
-          plugin_languages_recent_load: 300                    # Set recent load threshold
-          plugin_languages_sections: most-used                 # Section to display most used languages
-          plugin_languages_threshold: 0%                       # Set language usage threshold to 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 20
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
 
-          # Enable the lines plugin to show lines of code statistics
           plugin_lines: yes
-          plugin_lines_history_limit: 1                        # Limit the history to 1
-          plugin_lines_repositories_limit: 4                   # Limit the number of repositories for lines analysis
-          plugin_lines_sections: base                          # Include base section for lines analysis
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
