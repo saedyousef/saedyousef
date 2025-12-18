@@ -34,7 +34,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_SECRET }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
           user: saedyousef
           template: classic
