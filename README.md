@@ -3,6 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/03bf07e2-4c78-4826-8603-8922f0241061.svg)](https://wakatime.com/@03bf07e2-4c78-4826-8603-8922f0241061)
 <p align="center">
   <a href="https://saedyousef.com">
-    <img src="./assets/website-preview.png" width="900" alt="Preview of saedyousef.com" />
+    <img src="./assets/website-preview.png" width="900" alt="Preview of Personal profile" />
   </a>
 </p>
