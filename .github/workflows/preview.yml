@@ -44,6 +44,25 @@ jobs:
               waitUntil: "networkidle"
             });
 
+            await page.evaluate(async () => {
+              await new Promise((resolve) => {
+                let totalHeight = 0;
+                const distance = 500;
+                const timer = setInterval(() => {
+                  window.scrollBy(0, distance);
+                  totalHeight += distance;
+
+                  if (totalHeight >= document.body.scrollHeight) {
+                    clearInterval(timer);
+                    resolve();
+                  }
+                }, 300);
+              });
+            });
+
+            await page.evaluate(() => window.scrollTo(0, 0));
+            await page.waitForTimeout(1000);
+
             await page.screenshot({
               path: "assets/website-preview.png",
               fullPage: true
