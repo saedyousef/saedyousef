@@ -1,0 +1,62 @@
+# .github/workflows/update-website-preview.yml
+
+name: Update website preview
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium
+
+      - name: Take screenshot
+        run: |
+          mkdir -p assets
+          node <<'EOF'
+          const { chromium } = require("playwright");
+
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage({
+              viewport: { width: 1440, height: 1000 },
+              deviceScaleFactor: 1
+            });
+
+            await page.goto("https://saedyousef.com", {
+              waitUntil: "networkidle"
+            });
+
+            await page.screenshot({
+              path: "assets/website-preview.png",
+              fullPage: true
+            });
+
+            await browser.close();
+          })();
+          EOF
+
+      - name: Commit screenshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/website-preview.png
+          git diff --cached --quiet || git commit -m "Update website preview"
+          git push
