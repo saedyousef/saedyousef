@@ -40,6 +40,7 @@ jobs:
               deviceScaleFactor: 1
             });
 
+            await page.emulateMedia({ colorScheme: "dark" });
             await page.goto("https://saedyousef.com", {
               waitUntil: "networkidle"
             });
